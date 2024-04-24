@@ -1,7 +1,9 @@
 
 function App() {
   return (
-   <h1>React in basics</h1>
+   <div>
+    DXEcrvftbgyhuj8k9i
+   </div>
   );
 }
 
